@@ -1,0 +1,15 @@
+{
+  "name": "deepseek-proxy",
+  "version": "1.0.0",
+  "description": "DeepSeek API Proxy for TRIZ Game",
+  "engines": {
+    "node": ">=18.x"
+  },
+  "scripts": {
+    "dev": "vercel dev"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "vercel": "^28.0.0"
+  }
+}
